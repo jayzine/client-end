@@ -1,2 +1,2 @@
 # client-end
-react-js-with-graphql-
+  Reactjs app with graphql, apollo/client and hooks
