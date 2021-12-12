@@ -1,6 +1,15 @@
+# To run this app  you need to get the clone of https://github.com/jayzine/server-end-node-graphql/tree/master repository. 
+  - https://github.com/jayzine/server-end-node-graphql/tree/master have node app which runs the graphql
+  - current repo is based on react, a simple to do list which will get the data from node graphql
+# RUN npm install
+# run npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
